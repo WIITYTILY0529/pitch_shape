@@ -1,0 +1,9 @@
+# Windows dependencies: project metadata and direct imports.
+ipykernel
+matplotlib
+matplotlib>=3.7
+numpy
+numpy>=1.24
+pandas
+pandas<3
+pandas>=2.0
